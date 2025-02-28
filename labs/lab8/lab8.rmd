@@ -1,6 +1,6 @@
 ---
 title: "PLSC 30600 - Lab 8 - Regression Discontinuity Design"
-date: "02/23/2023"
+date: "02/28/2025"
 output:
   pdf_document: default
   html_document: default
